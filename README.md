@@ -1,4 +1,5 @@
-Hello, I'm Matteo Leccardi (@Matteoleccardi)
+Hello, I'm Matteo Leccardi (@Matteoleccardi).
+
 My github profile is currently undergoing some cleaning.
 
 <!---
