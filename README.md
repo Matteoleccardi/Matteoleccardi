@@ -1,4 +1,6 @@
-Hello, I'm Matteo Leccardi (@Matteoleccardi).
+Hello, I'm Matteo Leccardi (@Matteoleccardi), Physics and Automation/Control Engineer made in Politecnico di Milano.
+
+[![Linkedin: Matteo Leccardi](https://img.shields.io/badge/-Matteo_Leccardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matteo-leccardi-35027115a/)](https://www.linkedin.com/in/matteo-leccardi-35027115a/)
 
 My github profile is currently undergoing some cleaning.
 
